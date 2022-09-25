@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-%23323330.svg?style=for-the-badge&logo=AndroidStudio)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
