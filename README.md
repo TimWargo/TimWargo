@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About
-<b>Hello. My name is Tim. I am a graduating Computer Science student in the School of Computing here at the University of Georgia. I am drawn to the fields of Software Engineering and Web Development.</b>
+<b>Hey, I'm Tim! I am a developer drawn to the fields of Software Engineering and Web Development. Please feel free to reach out to me!</b>
 
 ----------------------
 
@@ -27,4 +27,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+----------------------
+  
+![TimWargo github stats](https://github-readme-stats.vercel.app/api?username=TimWargo&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
+  
 </div>
